@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+@import url("https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;1,400;1,500&family=Poppins:wght@300&family=Roboto:wght@300&display=swap");
+* {
+  margin: 0;
+  padding: 0%;
+  box-sizing: border-box;
+  font-family: "Lora", serif;
+  /* font-family: 'Poppins', sans-serif;
+  font-family: 'Roboto', sans-serif; */
+}
+.App {
+  text-align: center;
+}

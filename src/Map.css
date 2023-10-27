@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.reset {
+  margin-left: 20px;
+}
+.search {
+  display: inline;
+  margin-left: 40px;
+}
+.slider {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-left: 10px;
+}
+.searchPlace {
+  margin-left: 20px;
+  width: 93%;
+}
